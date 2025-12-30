@@ -1,4 +1,4 @@
-# Net-Zero-Agriculture-in-Pakistan
+# Net Zero Agriculture in Pakistan
 # Project Overview
 
 This project applies environmental analytics to assess the feasibility of achieving net-zero emissions in Pakistan’s agricultural sector, which currently contributes approximately 41% of national greenhouse gas (GHG) emissions. Using long-run emissions data, the project identifies emission trends, pollutant hotspots, governance gaps and proposes SBTi-aligned, data-driven policy recommendations. The analysis is written from the perspective of a senior policy or sustainability decision-maker, translating quantitative insights into actionable climate strategy.
