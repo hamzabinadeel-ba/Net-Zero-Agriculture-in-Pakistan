@@ -144,7 +144,7 @@ The project explicitly addresses:
 
 # Key Skills Demonstrated
 
-- Environmental & sustainability analytics
+- Environmental and sustainability analytics
 
 - Longitudinal emissions analysis
 
@@ -158,7 +158,7 @@ The project explicitly addresses:
 
 # Who This Project Is For
 
-- Sustainability & ESG analysts
+- Sustainability and ESG analysts
 
 - Climate policy and public sector roles
 
